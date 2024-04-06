@@ -100,7 +100,7 @@
     conditional_formatting_include_totals: false
     conditional_formatting_include_nulls: false
     custom_color: "#041f41"
-    single_value_title: Total Items Purchased
+    single_value_title: Total Transaction Count
     defaults_version: 1
     hidden_pivots: {}
     row: 0
