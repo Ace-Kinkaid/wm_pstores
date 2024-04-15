@@ -5,7 +5,7 @@
   preferred_viewer: dashboards-next
   description: ''
   preferred_slug: zD1X5bzCozyH2Y9ZuHo1FX
-  refresh: 4 seconds
+  refresh: 24 hours
   elements:
   - title: Transaction Amount by Date
     name: Transaction Amount by Date
